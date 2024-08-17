@@ -1,0 +1,8 @@
+No tests found, exiting with code 1
+Run with `--passWithNoTests` to exit with code 0
+In /Users/subvind/Projects/continuous-ai/test
+  1 file checked.
+  testMatch:  - 0 matches
+  testPathIgnorePatterns: /node_modules/ - 1 match
+  testRegex: .e2e-spec.ts$ - 0 matches
+Pattern:  - 0 matches

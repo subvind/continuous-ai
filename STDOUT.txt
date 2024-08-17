@@ -1,13 +1,26 @@
-c[[90m9:37:02 PM[0m] Starting compilation in watch mode...
+c[[90m9:43:25 PM[0m] Starting compilation in watch mode...
 
-[[90m9:37:05 PM[0m] Found 0 errors. Watching for file changes.
+[[90m9:43:28 PM[0m] Found 0 errors. Watching for file changes.
 
-[2024-08-17T02:37:05.899Z] [LOG] [NestFactory] Starting Nest application...
-[2024-08-17T02:37:05.918Z] [LOG] [InstanceLoader] AppModule dependencies initialized
-[2024-08-17T02:37:05.919Z] [LOG] [InstanceLoader] YamlActionsModule dependencies initialized
-[2024-08-17T02:37:05.926Z] [LOG] [RoutesResolver] AppController {/}:
-[2024-08-17T02:37:05.930Z] [LOG] [RouterExplorer] Mapped {/, GET} route
-[2024-08-17T02:37:05.930Z] [LOG] [RoutesResolver] YamlActionsController {/yaml-actions}:
-[2024-08-17T02:37:05.931Z] [LOG] [RouterExplorer] Mapped {/yaml-actions/process, POST} route
-[2024-08-17T02:37:05.934Z] [LOG] [NestApplication] Nest application successfully started
-[2024-08-17T02:37:05.940Z] [LOG] Application is running on: http://localhost:3000
+[2024-08-17T02:43:29.053Z] [LOG] [NestFactory] Starting Nest application...
+[2024-08-17T02:43:29.075Z] [LOG] [InstanceLoader] AppModule dependencies initialized
+[2024-08-17T02:43:29.075Z] [LOG] [InstanceLoader] YamlActionsModule dependencies initialized
+[2024-08-17T02:43:29.081Z] [LOG] [RoutesResolver] AppController {/}:
+[2024-08-17T02:43:29.088Z] [LOG] [RouterExplorer] Mapped {/, GET} route
+[2024-08-17T02:43:29.088Z] [LOG] [RoutesResolver] YamlActionsController {/yaml-actions}:
+[2024-08-17T02:43:29.089Z] [LOG] [RouterExplorer] Mapped {/yaml-actions/process, POST} route
+[2024-08-17T02:43:29.093Z] [LOG] [NestApplication] Nest application successfully started
+[2024-08-17T02:43:29.099Z] [LOG] Application is running on: http://localhost:3000
+c[[90m9:45:48 PM[0m] File change detected. Starting incremental compilation...
+
+[[90m9:45:48 PM[0m] Found 0 errors. Watching for file changes.
+
+[2024-08-17T02:45:50.793Z] [LOG] [NestFactory] Starting Nest application...
+[2024-08-17T02:45:50.810Z] [LOG] [InstanceLoader] AppModule dependencies initialized
+[2024-08-17T02:45:50.810Z] [LOG] [InstanceLoader] YamlActionsModule dependencies initialized
+[2024-08-17T02:45:50.817Z] [LOG] [RoutesResolver] AppController {/}:
+[2024-08-17T02:45:50.819Z] [LOG] [RouterExplorer] Mapped {/, GET} route
+[2024-08-17T02:45:50.819Z] [LOG] [RoutesResolver] YamlActionsController {/yaml-actions}:
+[2024-08-17T02:45:50.820Z] [LOG] [RouterExplorer] Mapped {/yaml-actions/process, POST} route
+[2024-08-17T02:45:50.824Z] [LOG] [NestApplication] Nest application successfully started
+[2024-08-17T02:45:50.828Z] [LOG] Application is running on: http://localhost:3000
