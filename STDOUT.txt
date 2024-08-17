@@ -1,0 +1,13 @@
+c[[90m9:37:02 PM[0m] Starting compilation in watch mode...
+
+[[90m9:37:05 PM[0m] Found 0 errors. Watching for file changes.
+
+[2024-08-17T02:37:05.899Z] [LOG] [NestFactory] Starting Nest application...
+[2024-08-17T02:37:05.918Z] [LOG] [InstanceLoader] AppModule dependencies initialized
+[2024-08-17T02:37:05.919Z] [LOG] [InstanceLoader] YamlActionsModule dependencies initialized
+[2024-08-17T02:37:05.926Z] [LOG] [RoutesResolver] AppController {/}:
+[2024-08-17T02:37:05.930Z] [LOG] [RouterExplorer] Mapped {/, GET} route
+[2024-08-17T02:37:05.930Z] [LOG] [RoutesResolver] YamlActionsController {/yaml-actions}:
+[2024-08-17T02:37:05.931Z] [LOG] [RouterExplorer] Mapped {/yaml-actions/process, POST} route
+[2024-08-17T02:37:05.934Z] [LOG] [NestApplication] Nest application successfully started
+[2024-08-17T02:37:05.940Z] [LOG] Application is running on: http://localhost:3000
